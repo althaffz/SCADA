@@ -1,0 +1,8 @@
+C:\Users\Muhammed Althaf\Desktop\Final GUI\DSI_SCADA\DSI_SCADA\bin\Debug\DSI_SCADA.exe
+C:\Users\Muhammed Althaf\Desktop\Final GUI\DSI_SCADA\DSI_SCADA\bin\Debug\DSI_SCADA.pdb
+C:\Users\Muhammed Althaf\Desktop\Final GUI\DSI_SCADA\DSI_SCADA\obj\x86\Debug\DSI_SCADA.Form1.resources
+C:\Users\Muhammed Althaf\Desktop\Final GUI\DSI_SCADA\DSI_SCADA\obj\x86\Debug\DSI_SCADA.Properties.Resources.resources
+C:\Users\Muhammed Althaf\Desktop\Final GUI\DSI_SCADA\DSI_SCADA\obj\x86\Debug\DSI_SCADA.csproj.GenerateResource.Cache
+C:\Users\Muhammed Althaf\Desktop\Final GUI\DSI_SCADA\DSI_SCADA\obj\x86\Debug\DSI_SCADA.exe
+C:\Users\Muhammed Althaf\Desktop\Final GUI\DSI_SCADA\DSI_SCADA\obj\x86\Debug\DSI_SCADA.pdb
+C:\Users\Muhammed Althaf\Desktop\Final GUI\DSI_SCADA\DSI_SCADA\obj\x86\Debug\DSI_SCADA.csprojResolveAssemblyReference.cache
